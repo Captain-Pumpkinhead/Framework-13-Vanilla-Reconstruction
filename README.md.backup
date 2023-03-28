@@ -1,0 +1,27 @@
+# Framework-Vanilla-Reconstruction
+   The intention is to reconstruct every physical part of the Framework 13 laptop, so that this repo can be used as a resource to begin mods from.  It forks from [Framework's Mainboard](https://github.com/FrameworkComputer/Framework-Laptop-13) and [ExpansionCards](https://github.com/FrameworkComputer/ExpansionCards) repos, and pulls from [Fraoch's 3D model](https://github.com/Fraoch/Framework-laptop-3D-model).  This project is using FreeCAD because it is open source, and because it's easier to understand than OpenSCAD.
+
+   Another reason for using FreeCAD rather than something like TinkerCAD is because I really don't want to have the output just be a mesh file.  I want to be able to edit and change dimensions or whatever else.  This will be important to fix mistakes, bad measurements, and to allow people to make their mods.
+
+   These are the parts I think we should create models for:
+
+   - Bottom Cover Kit
+   - Input Cover Kit
+   - Top Cover
+   - Bezel
+   - Display Kit
+   - Battery
+   - Mainboard
+   
+   Here are some parts that I think _might_ be useful to have models for, but should probably be a second priority:
+   
+   - Speakers
+   - Hinges
+   - Webcam Module
+   - Antennae
+   - Keyboard, separate
+   - Power Button, separate
+   - Touchpad, separate
+   - Input Cover, separate
+   
+   If you think something else should be added, you can either add it yourself or request it.
